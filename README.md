@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://github.com/nanau9u/nanau9u/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/nanau9u/nanau9u/blob/output/github-snake-dark.svg"/>
