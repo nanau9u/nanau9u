@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 
 <img src="https://github.com/nanau9u/nanau9u/blob/output/github-snake-dark.svg"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nanau9u&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/nanau9u"
+  width="600"
+  height="300"
+/>
+</a>
